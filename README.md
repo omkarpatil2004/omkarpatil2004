@@ -1,4 +1,3 @@
-<!-- 👋 Hi, I'm Omkar! -->
 <h1 align="center">👋 Hi there, I'm <a href="https://github.com/Omkar-Patil" target="_blank">Omkar Abhaykumar Patil</a>!</h1>
 <h3 align="center">🚀 Data Analyst | Aspiring Data Scientist | Tech Enthusiast</h3>
 
@@ -37,61 +36,29 @@
 
 ---
 
-## 📂 Featured Projects  
-
-### 🏏 [IPL Win Predictor](https://github.com/Omkar-Patil/IPL-Win-Predictor)
-- Developed a predictive model using **Python, Pandas, and Scikit-Learn**
-- Built an interactive web app with **Streamlit**
-- Helps users forecast match outcomes based on team and venue data  
-
-### 🏬 [Retail Store Analysis (Power BI)](https://github.com/Omkar-Patil/Retail-Store-Analysis)
-- Created **interactive dashboards** to analyze sales and profit by region  
-- Delivered actionable insights using Power BI’s DAX and visualization tools  
-
-### 🧠 [Career Aspirations of Gen Z](https://github.com/Omkar-Patil/Career-Aspirations-GenZ)
-- Research project combining **data analytics + behavioral insights**  
-- Visualized Gen Z’s trends and patterns for career decisions  
-
-### 📄 [ATS Resume Evaluator](https://github.com/Omkar-Patil/ATS-Resume-Evaluator)
-- AI-based local app using **Streamlit + OCR + Gemma 3B LLM via Ollama**
-- Parses resumes and evaluates them based on job description relevance  
-
----
-
-## 🏅 Certifications  
-- 🎓 **AI-ML Virtual Internship** — Google for Developers x KIT CoE  
-- 📊 **Career Essentials in Data Analysis** — Microsoft & LinkedIn  
-- 🤖 **Generative AI** — LinkedIn Learning  
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/omkar-abhaykumar-patil" target="_blank">
+  <a href="https://www.linkedin.com/in/omkar-patil-6a2275263" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:omkarapatil2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Omkar-Patil" target="_blank">
+  <a href="https://github.com/omkarpatil2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="mailto:patilomkar0307@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+📞 <b>Phone:</b> +91 7620209865  
 </p>
 
 ---
 
 ## ⚡ GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omkar-Patil&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Patil&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Patil&layout=compact&theme=tokyonight" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Omkar-Patil&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## ✨ Fun Fact  
-> 🧩 *“Data is the new oil, but insight is the new currency.”*  
-⭐ *Turning analytics into action, one dataset at a time.*  
