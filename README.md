@@ -5,27 +5,29 @@
 
 ## 🧠 About Me  
 🎓 Pursuing **B.Tech in Computer Science** from **Kolhapur Institute of Technology**  
-📊 Passionate about uncovering insights through **Data Analytics & Machine Learning**  
-📈 Skilled in **Python, Power BI, SQL, and Excel** for real-world data problem solving  
-🧩 Currently diving deeper into **Deep Learning and Generative AI**  
+📊 Passionate about uncovering insights through **Data Analytics, Statistics & Machine Learning**  
+📈 Skilled in **Python, Power BI, SQL, Excel, and Business Intelligence** for real-world data problem solving  
+🧩 Currently exploring advanced concepts in **Deep Learning and Generative AI**  
 💡 Motto: *“Transforming Data into Decisions.”*
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 📊 Data Analytics & Visualization  
+### 📊 Data Analytics, Statistics & Business Intelligence  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=graphpad-prism&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-006600?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🤖 Machine Learning & Data Science  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-004D7A?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🧩 Other Tools & Technologies  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,4 +63,3 @@
 </p>
 
 ---
-
